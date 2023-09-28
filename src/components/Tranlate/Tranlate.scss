@@ -1,0 +1,20 @@
+.translate-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    ul {
+        width: 100%;
+    }
+    .meanings-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 1rem;
+        flex-direction: column;
+        font-weight: 900;
+        font-size: 17px;
+    }
+}
